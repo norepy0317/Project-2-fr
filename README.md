@@ -1,5 +1,6 @@
+
 # Project-2-fr
-real project 2
+project 2
 discription
 1. Goal of the Project
 The primary objective of this project is to develop a Python-based system for ranking hurricanes based on their name, severity level (category), and geographical location. The system allows users to input hurricane data and view the hurricanes ranked by their intensity and location. This tool is intended to help researchers, meteorologists, or the general public easily organize and assess hurricane data, focusing on key attributes that affect the severity and distribution of these natural disasters.
@@ -40,18 +41,8 @@ The system will display a ranked list of hurricanes based on their severity and 
 4. Structure of the Code
 The project follows a simple, systematic structure to ensure readability and maintainability. Below is a high-level diagram of the code structure:
 
-ruby
-Copy code
-Hurricane Ranking System:
-│
-├── hurricane_ranking.py  # Main script to rank hurricanes
-│   ├── class Hurricane   # Class to represent a hurricane
-│   ├── def rank_hurricanes()  # Function to rank hurricanes by category
-│   ├── List of sample hurricanes  # Predefined data
-│   ├── Sorting logic based on category and name
-│   └── Output display logic
-│
-└── README.md  # Project overview and instructions
+
+
 Code Explanation:
 
 Hurricane Class: Stores attributes of the hurricane, such as name, level, and location.
