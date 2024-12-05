@@ -1,7 +1,7 @@
 
 # Project-2-fr
 project 2
-discription
+description
 1. Goal of the Project
 The primary objective of this project is to develop a Python-based system for ranking hurricanes based on their name, severity level (category), and geographical location. The system allows users to input hurricane data and view the hurricanes ranked by their intensity and location. This tool is intended to help researchers, meteorologists, or the general public easily organize and assess hurricane data, focusing on key attributes that affect the severity and distribution of these natural disasters.
 
@@ -50,6 +50,7 @@ Hurricane Class: Stores attributes of the hurricane, such as name, level, and lo
 rank_hurricanes() Function: Sorts the hurricanes first by severity (category) and then by name or location.
 Sample Data: Hardcoded list of hurricanes is used for demonstration purposes.
 Output Display: Displays the ranked list of hurricanes in the terminal.
+
 5. Functionalities and Test Results
 Core Functionalities
 
@@ -80,6 +81,7 @@ Ranked Hurricanes:
 3. Irma (Category 4) - Caribbean Sea
 4. Harvey (Category 4) - Texas
 5. Sandy (Category 3) - East Coast US
+
 Actual Output:
 
 markdown
@@ -90,6 +92,7 @@ Ranked Hurricanes:
 3. Irma (Category 4) - Caribbean Sea
 4. Harvey (Category 4) - Texas
 5. Sandy (Category 3) - East Coast US
+
 Result: The actual output matches the expected output, confirming that the system works as intended.
 
 6. Showcasing the Achievement of Project Goals
@@ -117,5 +120,3 @@ Data handling and sorting algorithms.
 Designing a user-friendly interface in a terminal-based environment.
 In addition, the project demonstrated how to structure code for clarity and maintainability, which is an important skill for future software development tasks.
 
-8. Overall Quality of Report
-This report adheres to a clear and organized structure, providing detailed explanations of the project’s objectives, significance, implementation, and testing. The technical aspects of the code are explained in a manner that is accessible to both technical and non-technical readers, ensuring that the report meets academic standards for clarity, conciseness, and professionalism.
