@@ -36,6 +36,7 @@ bash
 Copy code
 python hurricane_ranking.py
 The system will display a ranked list of hurricanes based on their severity and location.
+
 4. Structure of the Code
 The project follows a simple, systematic structure to ensure readability and maintainability. Below is a high-level diagram of the code structure:
 
