@@ -1,5 +1,5 @@
 
-# Project-2-fr
+# Project-2
 project 2
 description
 1. Goal of the Project
