@@ -41,6 +41,7 @@ The system will display a ranked list of hurricanes based on their severity and 
 4. Structure of the Code
 The project follows a simple, systematic structure to ensure readability and maintainability. Below is a high-level diagram of the code structure:
 
+![FlowChart](https://github.com/user-attachments/assets/3a3e192f-31f8-4c5f-88a1-a2ab1bb215f2)
 
 
 Code Explanation:
