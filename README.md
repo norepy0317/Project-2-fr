@@ -28,6 +28,7 @@ To install dependencies (optional), run:
 bash
 Copy code
 pip install pandas requests
+
 Usage Instructions
 
 Open a terminal or command prompt.
@@ -36,7 +37,8 @@ Run the script:
 bash
 Copy code
 python hurricane_ranking.py
-The system will display a ranked list of hurricanes based on their severity and location.
+
+The system will display a ranked list of hurricanes based on their severity and name.
 
 4. Structure of the Code
 The project follows a simple, systematic structure to ensure readability and maintainability. Below is a high-level diagram of the code structure:
@@ -47,11 +49,15 @@ The project follows a simple, systematic structure to ensure readability and mai
 Code Explanation:
 
 Hurricane Class: Stores attributes of the hurricane, such as name, level, and location.
-rank_hurricanes() Function: Sorts the hurricanes first by severity (category) and then by name or location.
+
+Function: Sorts the hurricanes first by severity (category) and then by name or location.
+
 Sample Data: Hardcoded list of hurricanes is used for demonstration purposes.
+
 Output Display: Displays the ranked list of hurricanes in the terminal.
 
 5. Functionalities and Test Results
+
 Core Functionalities
 
 The Hurricane Ranking System supports the following key functionalities:
