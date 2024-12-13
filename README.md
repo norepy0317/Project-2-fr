@@ -79,8 +79,7 @@ Maria (Category 5, Caribbean Sea)
 Sandy (Category 3, East Coast US)
 Expected Output:
 
-markdown
-Copy code
+
 Ranked Hurricanes:
 1. Katrina (Category 5) - Gulf of Mexico
 2. Maria (Category 5) - Caribbean Sea
@@ -90,8 +89,7 @@ Ranked Hurricanes:
 
 Actual Output:
 
-markdown
-Copy code
+
 Ranked Hurricanes:
 1. Katrina (Category 5) - Gulf of Mexico
 2. Maria (Category 5) - Caribbean Sea
